@@ -1,7 +1,3 @@
-# answer-QA-test
-
-- Thank you for the opportunity to complete this task, and I look forward to hearing from you soon.
-
 
 # Section 1 - Manual Testing Skill and Testing Knowledge
 1. หากต้องการ Design Test-case มี Technique อะไรบ้างที่สามารถช่วยให้การ Design Test-case เพื่อทดสอบระบบได้ครอบคลุม
